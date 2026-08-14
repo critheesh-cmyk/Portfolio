@@ -4,7 +4,7 @@ export const profile = {
   location: 'Coimbatore',
   summary:
     'Motivated Computer Science Engineering student passionate about AI, Android Development, Python, Java and Full Stack Development.',
-  email: 'ritheesh@example.com',
+  email: 'critheesh@gmail.com',
   resume: '#',
   availability: 'Available for freelance and internships',
 };
